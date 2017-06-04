@@ -1,5 +1,5 @@
 @import url(font-awesome.min.css);
-@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i");
+@import url('https://fonts.googleapis.com/css?family=Neuton:200,300,400');
 
 /*
 	Story by HTML5 UP
@@ -1681,9 +1681,9 @@
 	}
 
 	body, input, select, textarea {
-		font-family: "Source Sans Pro", Helvetica, sans-serif;
-		font-size: 1rem;
-		font-weight: 300;
+		font-family: "Neuton", serif;
+		font-size: 1.2rem;
+		font-weight: 200;
 		line-height: 1.65;
 	}
 
@@ -1718,7 +1718,7 @@
 	h1, h2, h3, h4, h5, h6 {
 		font-weight: 300;
 		line-height: 1.375;
-		letter-spacing: -0.05em;
+		letter-spacing: 0.09em;
 		margin: 0 0 1rem 0;
 	}
 
@@ -2012,8 +2012,8 @@
 		input[type="button"]:hover,
 		button:hover,
 		.button:hover {
-			box-shadow: inset 0 0 0 1px #47D3E5;
-			color: #47D3E5 !important;
+			box-shadow: inset 0 0 0 1px #964F4C;
+			color: #964F4C !important;
 		}
 
 		input[type="submit"]:active,
@@ -2022,8 +2022,8 @@
 		button:active,
 		.button:active {
 			background-color: rgba(71, 211, 229, 0.2);
-			box-shadow: inset 0 0 0 1px #47D3E5;
-			color: #47D3E5 !important;
+			box-shadow: inset 0 0 0 1px #964F4C;
+			color: #964F4C !important;
 		}
 
 		input[type="submit"].special,
@@ -2041,7 +2041,7 @@
 			input[type="button"].special:hover,
 			button.special:hover,
 			.button.special:hover {
-				background-color: #47D3E5;
+				background-color: #964F4C;
 			}
 
 			input[type="submit"].special:active,
@@ -3437,6 +3437,10 @@
 			-webkit-object-position: right;
 			-ms-object-position: right;
 			object-position: right;
+			-moz-object-fit: contain;
+				-webkit-object-fit: contain;
+				-ms-object-fit: contain;
+				object-fit: contain;
 		}
 
 /* Banner (style2) */
@@ -4177,7 +4181,7 @@
 		}
 
 	.banner .image {
-		background-color: rgba(0, 0, 0, 0.125);
+		background-color: rgba(0, 0, 0, 0);
 	}
 
 	.banner.invert .image {
@@ -4694,16 +4698,16 @@
 		}
 
 			.spotlight.style1 .image img {
-				-moz-object-fit: cover;
-				-webkit-object-fit: cover;
-				-ms-object-fit: cover;
-				object-fit: cover;
+				-moz-object-fit: contain;
+				-webkit-object-fit: contain;
+				-ms-object-fit: contain;
+				object-fit: contain;
 				-moz-object-position: center;
 				-webkit-object-position: center;
 				-ms-object-position: center;
 				object-position: center;
 				display: block;
-				position: absolute;
+				/*position: absolute;*/
 				top: 0;
 				left: 0;
 				width: 100%;
@@ -5600,7 +5604,7 @@
 		}
 
 	.spotlight .image {
-		background-color: rgba(0, 0, 0, 0.125);
+		background-color: rgba(0, 0, 0, 0);
 	}
 
 	.spotlight.invert .image {
