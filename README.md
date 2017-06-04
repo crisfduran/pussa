@@ -1,6 +1,6 @@
-#http://pussa.info
+# http://pussa.info
 
-##The site for www.pussa.info, a set of Swedish guidelines for safe babycarrying, translated from the T.I.C.K.S guidelines (http://babyslingsafety.co.uk/) by Franziska Federle and Yvonne Duran.
+## The site for www.pussa.info, a set of Swedish guidelines for safe babycarrying, translated from the T.I.C.K.S guidelines (http://babyslingsafety.co.uk/) by Franziska Federle and Yvonne Duran.
 	
 	Template:	
 		Story by HTML5 UP
