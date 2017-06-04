@@ -9,9 +9,6 @@
 		AJ
 		aj@lkn.io | @ajlkn
 
-	Demo Images:
-		Unsplash (unsplash.com)
-
 	Icons:
 		Font Awesome (fortawesome.github.com/Font-Awesome)
 
