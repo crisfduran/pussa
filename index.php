@@ -189,11 +189,8 @@
 					<footer class="wrapper style1 align-center">
 						<div class="inner">
 							<ul class="icons">
-								<li><a href="#" class="icon style2 fa-twitter"><span class="label">Twitter</span></a></li>
-								<li><a href="#" class="icon style2 fa-facebook"><span class="label">Facebook</span></a></li>
-								<li><a href="#" class="icon style2 fa-instagram"><span class="label">Instagram</span></a></li>
-								<li><a href="#" class="icon style2 fa-linkedin"><span class="label">LinkedIn</span></a></li>
-								<li><a href="#" class="icon style2 fa-envelope"><span class="label">Email</span></a></li>
+								<li><a href="http://www.facebook.com/sharer/sharer.php?u=http://www.pussa.info&title=P.U.S.S.A" class="icon style2 fa-facebook"><span class="label">Facebook</span></a></li>
+								<li><a href="https://twitter.com/intent/tweet?url=www.pussa.info&text=P.U.S.S.A" class="icon style2 fa-twitter"><span class="label">Twitter</span></a></li>
 							</ul>
 							<p>&copy; Franziska Federle, bärandekonsult &amp; Yvonne Duran, Sjala. Design: <a href="https://html5up.net">HTML5 UP</a>, justerat av <a href="https://www.crisduran.se/">Cris Duran</a>.</p>
 							<p><a rel="license" href="http://creativecommons.org/licenses/by-nd/2.5/se/"><img alt="Creative Commons-licens" style="border-width:0" src="https://i.creativecommons.org/l/by-nd/2.5/se/88x31.png" /></a><br />Detta verk är licensierat under en <a rel="license" href="http://creativecommons.org/licenses/by-nd/2.5/se/">Creative Commons Erkännande-IngaBearbetningar 2.5 Sverige Licens</a>.</p>
