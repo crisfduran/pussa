@@ -78,9 +78,21 @@
 							<ul class="actions vertical">
 								<li><a href="#first" class="button big wide smooth-scroll-middle">Läs mer</a></li>
 							</ul>
-							<p class="major"><a>eller ladda ner PUSSA här</a></p>
+							<p class="major">
+								eller ladda ner PUSSA här nedan, välj mellan PDF, JPG eller JPG i Instagram-format.
+							</p>
+							<ul class="icons">
+								<li><a href="#" class="icon style2 fa-file-pdf-o"><span class="label">PDF</span></a></li>
+								<li><a href="#" class="icon style2 fa-file-image-o"><span class="label">.JPG</span></a></li>
+								<li><a href="#" class="icon style2 fa-instagram"><span class="label">Instagram</span></a></li>
+							</ul>
 						</div>
+						<hr>
 
+							
+								
+
+							
 						<div class="image">
 							<img src="images/headerIMG/pussa_head2.jpg" alt="" />
 						</div>
