@@ -138,7 +138,7 @@
 							</ul>
 						</div>
 						<div class="image">
-							<img src="images/instructionsBlack/pussa_u_block.png" alt="" />
+							<img src="images/instructionsBlack/pussa_st_block.png" alt="" />
 						</div>
 					</section>
 				<!-- Six -->
