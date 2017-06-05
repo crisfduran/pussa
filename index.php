@@ -87,12 +87,6 @@
 								<li><a href="#" class="icon style2 fa-instagram"><span class="label">Instagram</span></a></li>
 							</ul>
 						</div>
-						<hr>
-
-							
-								
-
-							
 						<div class="image">
 							<img src="images/headerIMG/pussa_head2.jpg" alt="" />
 						</div>
