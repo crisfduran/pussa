@@ -78,9 +78,8 @@
 							<ul class="actions vertical">
 								<li><a href="#first" class="button big wide smooth-scroll-middle">Läs mer</a></li>
 							</ul>
-							<p class="major">
-								eller ladda ner PUSSA här nedan, välj mellan PDF, JPG eller JPG i Instagram-format.
-							</p>
+							<p class="major">Ladda ner PUSSA här nedan.</p>
+							<p id="downloads">Välj mellan .pdf, .jpg eller .jpg i Instagram-format.</p>
 							<ul class="icons">
 								<li><a href="downloads/pussa.pdf" download="pussa.pdf" class="icon style2 fa-file-pdf-o"><span class="label">PDF</span></a></li>
 								<li><a href="downloads/p-u-s-s-a.jpg" download="pussa.jpg" class="icon style2 fa-file-image-o"><span class="label">.JPG</span></a></li>
@@ -153,7 +152,7 @@
 							<h2>A för Avlastning</h2>
 							<p>Bärdonet är bekvämt för både barn och bärare. Att bära barn får inte göra ont, det ska vara komfortabelt och glädjefyllt. Bäraren kan stå rakt och röra sig utan ansträngning.</p>
 							<ul class="actions vertical">
-								<li><a href="#" class="button smooth-scroll-middle">Ladda ner PUSSA</a></li>
+								<li><a href="#first" class="button smooth-scroll-middle">Läs igen</a></li>
 							</ul>
 						</div>
 						<div class="image">

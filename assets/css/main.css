@@ -1709,10 +1709,14 @@
 
 	p {
 		margin: 0 0 2rem 0;
+		font-size: 1rem;
 	}
 
 		p.major {
 			font-size: 1.25rem;
+		}
+		p#downloads{
+			margin-top: -35px;
 		}
 
 	h1, h2, h3, h4, h5, h6 {
