@@ -59,7 +59,7 @@
 -->
 <html>
 	<head>
-		<title>Story by HTML5 UP</title>
+		<title>P.U.S.S.A</title>
 		<meta charset="utf-8" />
 		<meta lang="sv">
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
