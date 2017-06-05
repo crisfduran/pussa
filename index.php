@@ -82,9 +82,9 @@
 								eller ladda ner PUSSA här nedan, välj mellan PDF, JPG eller JPG i Instagram-format.
 							</p>
 							<ul class="icons">
-								<li><a href="#" class="icon style2 fa-file-pdf-o"><span class="label">PDF</span></a></li>
-								<li><a href="#" class="icon style2 fa-file-image-o"><span class="label">.JPG</span></a></li>
-								<li><a href="#" class="icon style2 fa-instagram"><span class="label">Instagram</span></a></li>
+								<li><a href="downloads/pussa.pdf" download="pussa.pdf" class="icon style2 fa-file-pdf-o"><span class="label">PDF</span></a></li>
+								<li><a href="downloads/p-u-s-s-a.jpg" download="pussa.jpg" class="icon style2 fa-file-image-o"><span class="label">.JPG</span></a></li>
+								<li><a href="downloads/p-u-s-s-a_insta.jpg" download="pussa-instagram.jpg" class="icon style2 fa-instagram"><span class="label">Instagram</span></a></li>
 							</ul>
 						</div>
 						<div class="image">
